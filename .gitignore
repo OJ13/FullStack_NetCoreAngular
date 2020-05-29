@@ -1,0 +1,7 @@
+\.vscode
+\.downloads
+\.vs
+\bin
+\obj
+
+*.csproj
